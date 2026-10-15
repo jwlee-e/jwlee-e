@@ -1,0 +1,6 @@
+{
+  "name": "untangle",
+  "private": true,
+  "description": "사실은 별거 아냐 (가칭): 자꾸 맴도는 생각을 적고, 다르게 본 한 줄을 듣고, 구겨 버리는 웹앱",
+  "engines": { "node": ">=18" }
+}
